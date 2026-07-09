@@ -1,6 +1,4 @@
-Copy this as the full `README.md` for your [GitHub profile](https://github.com/nannapanenir?utm_source=chatgpt.com).
 
-````md
 # Hi, I'm Ramgopal Nannapaneni
 
 ### Applied AI Engineer | LLMs | RAG | Speech AI | Machine Learning
@@ -243,9 +241,4 @@ Currently exploring:
 
 ---
 
-> Building practical AI systems where models, context, data, and real user workflows come together.
-
-```
-
-One thing I deliberately did here: I did **not claim Audio Note AI has production users, real-time scale, model accuracy, or revenue**. Your current repo is private and the project is still being built, so this README presents it as serious Applied AI engineering work without sugarcoating it.
-```
+> Building practical AI systems where models, context, data, and real user workflows come together
